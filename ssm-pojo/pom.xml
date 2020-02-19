@@ -16,4 +16,12 @@
     <url>http://www.example.com</url>
 
     <packaging>jar</packaging>
+
+    <dependencies>
+        <dependency>
+            <groupId>cn.liaozhonghao.www</groupId>
+            <artifactId>ssm-common</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
 </project>
