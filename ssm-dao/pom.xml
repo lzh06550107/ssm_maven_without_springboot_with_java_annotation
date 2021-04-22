@@ -19,7 +19,7 @@
 
     <properties>
         <!--jar包版本-->
-        <mybatis.version>3.5.4</mybatis.version>
+        <mybatis.version>3.5.6</mybatis.version>
         <mybatis-spring.version>2.0.3</mybatis-spring.version>
         <pagehelper.version>4.1.4</pagehelper.version>
         <mysql-connector.version>5.1.37</mysql-connector.version>
